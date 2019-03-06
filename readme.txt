@@ -3,3 +3,5 @@
 和把大象放到冰箱需要3步相比，把一个文件放到Git仓库只需要两步。
 
 第一步，用命令git add告诉Git，把文件添加到仓库
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
