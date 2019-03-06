@@ -33,3 +33,7 @@ Git is free software distributed under the GPL.
 第一步，用命令git add告诉Git，把文件添加到仓库
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
+
+第一步，用命令git add告诉Git，把文件添加到仓库
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
